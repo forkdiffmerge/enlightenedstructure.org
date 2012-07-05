@@ -44,6 +44,19 @@
           "name": "ideas"
         }
       ]
+    },
+    {
+      "name": "liveingreatness.com",
+      "children": [
+        {
+          "size": 1,
+          "name": "core-protocols-the-core-commitments"
+        },
+        {
+          "size": 1,
+          "name": "home"
+        }
+      ]
     }
   ]
 }
