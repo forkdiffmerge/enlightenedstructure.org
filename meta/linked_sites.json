@@ -25,5 +25,13 @@
   },
   "blog.connect.me": null,
   "factlink.com": null,
-  "innovationgames.com": null
+  "innovationgames.com": null,
+  "metacurrency.org": {
+    "home": {
+      "size": 1
+    },
+    "ideas": {
+      "size": 1
+    }
+  }
 }
