@@ -47,5 +47,13 @@
   "bcorporation.net": null,
   "foresight.org": null,
   "hplusmagazine.com": null,
-  "holacracy.org": null
+  "holacracy.org": null,
+  "liveingreatness.com": {
+    "core-protocols-the-core-commitments": {
+      "size": 1
+    },
+    "how-to-use-the-core-protocols": {
+      "size": 1
+    }
+  }
 }
