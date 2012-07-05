@@ -1,6 +1,18 @@
 {
   "name": "root",
   "children": [
-
+    {
+      "name": "cyber.law.harvard.edu",
+      "children": [
+        {
+          "size": 1,
+          "name": "people-llessig"
+        },
+        {
+          "size": 1,
+          "name": "people"
+        }
+      ]
+    }
   ]
 }
