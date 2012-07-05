@@ -57,6 +57,15 @@
           "name": "home"
         }
       ]
+    },
+    {
+      "name": "noisebridge.net",
+      "children": [
+        {
+          "size": 1,
+          "name": "wiki-Noisebridge"
+        }
+      ]
     }
   ]
 }
