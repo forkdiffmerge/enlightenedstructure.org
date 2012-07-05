@@ -16,5 +16,13 @@
     "front-index": {
       "size": 1
     }
+  },
+  "metacurrency.org": {
+    "home": {
+      "size": 1
+    },
+    "ideas": {
+      "size": 1
+    }
   }
 }
