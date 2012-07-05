@@ -13,6 +13,15 @@
           "name": "people"
         }
       ]
+    },
+    {
+      "name": "emergentbydesign.com",
+      "children": [
+        {
+          "size": 1,
+          "name": "projects"
+        }
+      ]
     }
   ]
 }
