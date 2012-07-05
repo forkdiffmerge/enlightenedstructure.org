@@ -17,5 +17,10 @@
   },
   "emergentbydesign.com": {
   },
-  "vinay.howtolivewiki.com": null
+  "vinay.howtolivewiki.com": null,
+  "bettermeans.com": {
+    "front-index": {
+      "size": 1
+    }
+  }
 }
