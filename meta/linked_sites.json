@@ -11,5 +11,10 @@
     "projects": {
       "size": 1
     }
+  },
+  "bettermeans.com": {
+    "front-index": {
+      "size": 1
+    }
   }
 }
