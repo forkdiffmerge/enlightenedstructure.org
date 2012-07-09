@@ -34,6 +34,16 @@
           "name": "front-index"
         }
       ]
+    },
+    {
+      "name": "metacurrency.org",
+      "slug": "metacurrency-org",
+      "children": [
+        {
+          "size": 1,
+          "name": "home"
+        }
+      ]
     }
   ]
 }
