@@ -24,6 +24,16 @@
           "name": "projects"
         }
       ]
+    },
+    {
+      "name": "bettermeans.com",
+      "slug": "bettermeans-com",
+      "children": [
+        {
+          "size": 1,
+          "name": "front-index"
+        }
+      ]
     }
   ]
 }
