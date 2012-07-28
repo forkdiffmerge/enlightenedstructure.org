@@ -11,5 +11,13 @@
     "about": {
       "size": 1
     }
+  },
+  "bettermeans.com": {
+    "front-index": {
+      "size": 1
+    },
+    "front-why": {
+      "size": 1
+    }
   }
 }
