@@ -38,6 +38,16 @@
           "name": "front-why"
         }
       ]
+    },
+    {
+      "name": "metacurrency.org",
+      "slug": "metacurrency-org",
+      "children": [
+        {
+          "size": 1,
+          "name": "home"
+        }
+      ]
     }
   ]
 }
