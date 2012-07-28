@@ -24,6 +24,20 @@
           "name": "about"
         }
       ]
+    },
+    {
+      "name": "bettermeans.com",
+      "slug": "bettermeans-com",
+      "children": [
+        {
+          "size": 1,
+          "name": "front-index"
+        },
+        {
+          "size": 1,
+          "name": "front-why"
+        }
+      ]
     }
   ]
 }
