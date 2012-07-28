@@ -11,51 +11,7 @@
         },
         {
           "size": 1,
-          "name": "people"
-        }
-      ]
-    },
-    {
-      "name": "emergentbydesign.com",
-      "slug": "emergentbydesign-com",
-      "children": [
-        {
-          "size": 1,
-          "name": "projects"
-        }
-      ]
-    },
-    {
-      "name": "bettermeans.com",
-      "slug": "bettermeans-com",
-      "children": [
-        {
-          "size": 1,
-          "name": "front-index"
-        }
-      ]
-    },
-    {
-      "name": "metacurrency.org",
-      "slug": "metacurrency-org",
-      "children": [
-        {
-          "size": 1,
-          "name": "home"
-        }
-      ]
-    },
-    {
-      "name": "liveingreatness.com",
-      "slug": "liveingreatness-com",
-      "children": [
-        {
-          "size": 1,
-          "name": "core-protocols-the-core-commitments"
-        },
-        {
-          "size": 1,
-          "name": "home"
+          "name": "about"
         }
       ]
     }
