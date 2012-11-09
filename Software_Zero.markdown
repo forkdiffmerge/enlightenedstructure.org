@@ -52,7 +52,7 @@ Building simple, stable, long-term foundations for a new generation of informati
 
 Software Zero is being developed as a volunteer effort, supported by our team’s belief in the power and promise of these platforms.
 
-----------
+* * *
 This page was forked with permission from [http://enlightenedstructure.org/Software\_Zero/](http://enlightenedstructure.org/Software_Zero/)
-----------
+* * *
 [Creative Commons Attribution-ShareAlike License](http://creativecommons.org/licenses/by-sa/3.0/)
